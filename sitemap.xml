@@ -10,8 +10,6 @@
   </url><url>
     <loc>https://example.org/</loc>
   </url><url>
-    <loc>https://example.org/about_me/</loc>
-  </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
