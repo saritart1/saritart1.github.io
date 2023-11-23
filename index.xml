@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Sara Restrepo-Tamayo</title>
     <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Sara Restrepo-Tamayo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/publications/</guid>
+      <description>Work in progress Purpose, Practice and Teacher Transformation, An RCT of a “Learning to Learn” Teacher Training in Ugandan Secondary Schools (with Moustafa El-Kashlan, Stefan Faridani and Vesall Nourani) [AEARCTR-0012347]. Published Önder, Y. K., Restrepo-Tamayo, S., Ruiz-Sanchez, M. A., &amp;amp; Villamizar-Villegas, M. (2021). Government Borrowing and Crowding Out. Forthcoming 2024, American Economic Journal: Macroeconomics. Bahar, Dany, Morales-Arilla, J and Restrepo-Tamayo, S. (2021) Economic Integration of Venezuelan Immigrants in Colombia: A Policy Roadmap.</description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>https://example.org/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/random/</guid>
+      <description>Here you&amp;rsquo;ll find random stuff.</description>
+    </item>
+    <item>
+      <title>Sara Restrepo-Tamayo</title>
+      <link>https://example.org/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about_me/</guid>
+      <description>About me My name is Sara Restrepo and I am currently working with Dr. Vesall Nourani at the Development Innovation Lab in studying how knowledge is aggregated socially for economic purposes in predominantly rural and village settings. Previously, I have worked at the Inter-American Development Bank and the Jain Family Institute on non-conditional cash transfer programs and targeting in the US and LatinAmerica. Also, I worked at IPA Colombia on gender bias in STEM, non-conditional cash transfer and COVID projects and at the Central Bank of Colombia on agricultural, credit access projects and monetary policy.</description>
+    </item>
   </channel>
 </rss>

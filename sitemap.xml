@@ -4,7 +4,13 @@
   <url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/publications/</loc>
+  </url><url>
+    <loc>https://example.org/random/</loc>
+  </url><url>
     <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/about_me/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
